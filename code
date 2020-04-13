@@ -1,0 +1,22 @@
+in this file I wrote about how to code a text to something else. This is very powerfull tool to 
+do that. 
+
+these are many example about that. The for loop is doing a great work here. Please back when you need 
+  in this example you can make the coding letters very esaily 
+
+ for bokstav in ('LinLin Epm! Ry lev nek wovmzmx qmr ovötxivmrkwepksvmxq wb nek oer womgoe liqpmke qihhiperhir xmpp Hmk! Oyp exx Hy lev pögoexw hiovötxive hix! Fve nsffex!'):
+ #print(chr(ord(bokstav) - 4))
+
+
+    
+ for bokstav in ("vi ses"):
+ print(chr(ord(bokstav) + 5 ))
+
+
+
+for bokstav in ("ofl  {nqq yfhpf inl {n xjx"):
+
+    print(chr(ord(bokstav) - 5 ))
+
+for char in string:
+print(char)
